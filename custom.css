@@ -1,0 +1,8 @@
+.bootstrap-icon {
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.bg-completed {
+  background-color: rgba(0, 128, 0, .6);
+}
